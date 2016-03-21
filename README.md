@@ -8,8 +8,8 @@ A curated and opinionated list of web development resources.
 * [freeCodeCamp](http://www.freecodecamp.com) Learn to code and help non profits
 * [Codeacademy](http://www.codeacademy.com) Interactive coding
 * [LearnCode.academy Youtube Channel](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc) Video web tutorials
-* [Treehouse](http://teamtreehouse.com) Interactive programming with video tutorials organized by tracks
-* [Code School](http://www.codeschool.com) Interactive programming with video tutorials organized by tracks
+* [Treehouse](http://teamtreehouse.com) __Monthly subscription!__ Interactive programming with video tutorials organized by tracks
+* [Code School](http://www.codeschool.com) __Monthly subscription!__ Interactive programming with video tutorials organized by tracks
 * [Learn X in Y Minutes](http://learnxinyminutes.com) Community driven resources on various materials
 
 ## CSS
@@ -30,9 +30,9 @@ A curated and opinionated list of web development resources.
 * [Learn Enough Text Editor to Be Dangerous](http://www.learnenough.com/text-editor-tutorial) Part of Michael Hartk's Learn Enough tutorials
 
 ## Must Have!
-* [Egghead](http://www.egghead.io) Bite sized web development technologies training, covers latest web development fad
-* [Frontendmasters](http://frontendmasters.com) In depth mastery of web development principles and technologies. Get your fundamentals solid here
-* [Upcase](http://upcase.com) Web development workflow mastery
+* [Egghead](http://www.egghead.io) __Monthly subscription!__ Bite sized web development technologies training, covers latest web development fad
+* [Frontendmasters](http://frontendmasters.com) __Monthly subscription!__ based In depth mastery of web development principles and technologies. Get your fundamentals solid here
+* [Upcase](http://upcase.com) __Monthly subscription!__ Web development workflow mastery
 
 ## Miscellaneous
 * [Codewars](http://www.codewars.com) Solving code challenges socially, with clans, teams, etc
