@@ -1,7 +1,7 @@
 # Web Development Resources
 A curated and opinionated list of web development resources.
 
-## HTML, CSS, JavaScript, Ruby, Python, Git, etc 
+## HTML, CSS, JavaScript, Ruby, Python, Git, etc
 * [Dash](http://dash.generalassemb.ly) Interactive HTML, CSS and Javascript
 * [HTML Dog](http://htmldog.com) HTML, CSS and Javascript resources
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) Learn HTML and CSS through step by step tutorial
@@ -18,6 +18,9 @@ A curated and opinionated list of web development resources.
 
 ## JavaScript
 * [Nodeschool](http://nodeschool.io) Really awesome test-driven tutorial for anything Node related.
+* [JavaScript The Right Way](http://jstherightway.org/) A guide for beginners and experts focused on best practices.
+* [Eloquent JavaScript](http://eloquentjavascript.net/) An introduction to programming via JavaScript.
+* [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) *PAID* - A video series on the stranger bits of JavaScript for more advanced users.
 
 ## Command Line
 * [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial) Part of Michael Hartl's Learn Enough tutorials
@@ -43,4 +46,3 @@ A curated and opinionated list of web development resources.
 
 ## Contributing
 Pull requests, file issues, check broken link, etc!
-
