@@ -40,6 +40,7 @@ A curated and opinionated list of web development resources.
 * [Learn Enough Git to Be Dangerous](http://www.learnenough.com/git-tutorial) Part of Michael Hartl's Learn Enough tutorials
 * [Try Git](http://www.codeschool.com/courses/try-git) Codeschool's interactive git tutorial 
 * [Git Immersion](http://gitimmersion.com/) Much more involved tutorial on git
+* [Git it](https://github.com/jlord/git-it) Real world forking/branching interactive tutorial using Github
 * [Pro Git](http://git-scm.com/book/en/v2) Use git like a pro! Nuff said!
 
 ## Text Editor
@@ -64,9 +65,13 @@ A curated and opinionated list of web development resources.
 
 # Projects
 ## [Project 1 - Test First JavaScript](https://github.com/christiansakai/test-first-javascript)
-Introduction to JavaScript, with some functional programming and prototypal inheritance problem.
+Introduction to JavaScript, with some functional programming and prototypal inheritance problem
 
-Takeaway Concepts:
+## [Project 2 - Test First JavaScript Data Structures & Sorting](https://github.com/christiansakai/test-first-javascript-data-structures-sorting)
+Building on Project 1, to test your knowledge of JavaScript
+
+__Takeaway Concepts from Project 1 and 2:__
 * Basic JavaScript syntax
+* JavaScript's scope and closure
 * JavaScript functional programming style
 * JavaScript's prototypal inheritance
