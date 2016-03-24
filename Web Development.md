@@ -1,7 +1,7 @@
 # Web Development Resources
 A curated and opinionated list of web development resources.
 
-## HTML, CSS, JavaScript, Ruby, Python, Git, etc 
+## HTML, CSS, JavaScript, Ruby, Python, Git, etc
 * [Dash](http://dash.generalassemb.ly) Interactive HTML, CSS and Javascript
 * [HTML Dog](http://htmldog.com) HTML, CSS and Javascript resources
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) Learn HTML and CSS through step by step tutorial
@@ -20,14 +20,16 @@ A curated and opinionated list of web development resources.
 ## JavaScript
 ### Front-End
 * [Khan Academy CS](http://khanacademy.com/cs) Visual exploration of programming concepts in JavaScript
-* [TryjQuery](http://tryjquery.com/) Codeschool's beginner jQuery tutorial
+* [Try jQuery](http://try.jquery.com/) Codeschool's beginner jQuery tutorial
 * [Angular Official Tutorial](http://docs.angularjs.org/tutorial/step_00) Official Angular tutorial
 
 ### Back-End
+* [JavaScript The Right Way](http://jstherightway.org/) A guide for beginners and experts focused on best practices.
+* [Eloquent JavaScript](http://eloquentjavascript.net/) An introduction to programming via JavaScript.
+* [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) *PAID* - A video series on the stranger bits of JavaScript for more advanced users.
 * [Node Beginner Book](http://www.nodebeginner.org) A short and great introduction to Node.js
 * [Nodeschool](http://nodeschool.io) Really awesome test-driven tutorial for anything Node related
-* [ExpressJs Official](http://expressjs.com/guide.html) A guide to use Express.js
-* [MongoDB 101](https://university.mongodb.com/courses/) Official MongoDB tutorial
+* [MongoDB 101](https://university.mongodb.com/courses) Official MongoDB tutorial
 * [MongoDB Tutorials](http://docs.mongodb.org/manual/tutorial/) Another official MongoDB tutorial
 
 ## Command Line
@@ -70,5 +72,4 @@ Takeaway Concepts:
 * JavaScript's prototypal inheritance
 
 ## Contributing
-Pull requests, file issues, check broken link, etc
-
+Pull requests, file issues, check broken link, etc!
