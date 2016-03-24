@@ -70,6 +70,3 @@ Takeaway Concepts:
 * Basic JavaScript syntax
 * JavaScript functional programming style
 * JavaScript's prototypal inheritance
-
-## Contributing
-Pull requests, file issues, check broken link, etc!
