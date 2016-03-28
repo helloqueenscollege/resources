@@ -64,6 +64,8 @@ A curated and opinionated list of web development resources.
 * To look for resources on Github related to a particular technology, add `koans` or `awesome`.  For example, `awesome javascript`, `awesome jquery`, `rxjs koans`.    
 
 # Projects
+A list of projects that gradually introduce you to Fullstack Web Development in JavaScript. To work on a project, just download or `clone` the repository. Any ideas or even contributions for projects please request in the issue / do a PR.
+
 ## [Project 1 - Test First JavaScript](https://github.com/christiansakai/test-first-javascript)
 Introduction to JavaScript, with some functional programming and prototypal inheritance problem
 
@@ -75,3 +77,22 @@ __Takeaway Concepts from Project 1 and 2:__
 * JavaScript's scope and closure
 * JavaScript functional programming style
 * JavaScript's prototypal inheritance
+
+## Coming soon
+* Guessing Game (HTML, CSS, JavaScript)
+* Game of Life (HTML, CSS, JavaScript)
+* Mini jQuery (JavaScript)
+* Mini Bootstrap (HTML, SASS)
+* Trip Planner (HTML, CSS, JavaScript)
+* File Watcher (NodeJS)
+* Mini Twitter (NodeJS, HTML, CSS)
+* Bowling Game (JavaScript)
+* Mini Wiki (NodeJS, Express, MongoDB, HTML, CSS)
+* WikiScraper (NodeJS)
+* AngularQuiz (AngularJS)
+* Angular Trip Planner (AngularJS)
+* Gulp Workshop (NodeJS, Gulp, NPM)
+
+
+
+
