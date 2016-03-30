@@ -61,6 +61,7 @@ A curated and opinionated list of web development resources.
 * [Job Search Guide](https://github.com/christiansakai/job-search-guide) Curated materials of job search guide
 
 ## Tips
+* Test Driven Development approach is one of the best way to get an introduction to a technology. For example of such things, see Project 1 and 2 below.
 * To look for resources on Github related to a particular technology, add `koans` or `awesome`.  For example, `awesome javascript`, `awesome jquery`, `rxjs koans`.    
 
 # Projects
@@ -78,8 +79,13 @@ __Takeaway Concepts from Project 1 and 2:__
 * JavaScript functional programming style
 * JavaScript's prototypal inheritance
 
+## [Project 3 - Guessing Game](https://github.com/christiansakai/guessing-game)
+A simple Guessing Game built entirely in HTML, CSS and JavaScript
+
+__Takeaway Concepts from Project 3:__
+* How HTML, CSS and JavaScript fits together
+
 ## Coming soon
-* Guessing Game (HTML, CSS, JavaScript)
 * Game of Life (HTML, CSS, JavaScript)
 * Mini jQuery (JavaScript)
 * Mini Bootstrap (HTML, SASS)
