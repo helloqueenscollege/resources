@@ -85,6 +85,12 @@ A simple Guessing Game built entirely in HTML, CSS and JavaScript
 __Takeaway Concepts from Project 3:__
 * How HTML, CSS and JavaScript fits together
 
+## [Project 4 - TDD Bowling Game](https://github.com/christiansakai/tdd-bowling-game)
+Introduction to Test Driven Development
+
+__Takeaway Concepts from Project 4:__
+* Basic approach to testing
+
 ## Coming soon
 * Game of Life (HTML, CSS, JavaScript)
 * Mini jQuery (JavaScript)
